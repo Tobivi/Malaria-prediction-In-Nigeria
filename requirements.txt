@@ -1,0 +1,5 @@
+matplotlib
+scikit-learn==1.3.0
+streamlit
+Numpy
+Pandas
